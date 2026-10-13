@@ -6,6 +6,7 @@ category: "Browser Automation"
 framework: "Codex"
 verification: listed
 source: "https://github.com/masakaai/jet-browser"
+license: Apache-2.0
 ---
 
 # Jet Browser
